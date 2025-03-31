@@ -3,3 +3,5 @@ Orignal name of files :-
 TFT2CairoAgg.csv  -> g1
 TFT3CairoAgg.csv  -> g2
 TFT4CairoAgg.csv  -> g3
+
+I have taken the data from Kaggle (https://www.kaggle.com/datasets/ahassanein/aggregated-gaming-and-video-streaming-traffic-for-5g/data) and analyzed network traffic by merging multiple datasets. This project identifies peak traffic hours, regional trends, and protocol distribution, providing a comprehensive view of network activity.
